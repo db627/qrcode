@@ -1,1 +1,1 @@
-![QR CODE IMAGE](./static/image.png)
+![QR CODE IMAGE](./static/default.png)
