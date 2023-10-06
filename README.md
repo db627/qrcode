@@ -1,1 +1,1 @@
-![Alt Text](./static/image.png)
+![QR CODE IMAGE](./static/image.png)
